@@ -3,16 +3,15 @@
 	<div id="section-footer">
 		<div class="container">
 			<div class="six columns">
-				<p><a href="mailto:mail@example.com">mail@example.com</a></p>
+				<p><a href="mailto:aaron@sananes.co">aaron@sananes.co</a></p>
 			</div><!-- // .six -->
 
 			<div class="ten columns">
 				<ul id="social">
-					<li><a href="http://www.facebook.com" title=""><img src="images/icons/icon_facebook.png" alt="Facebook" /></a></li>
-					<li><a href="http://www.twitter.com" title=""><img src="images/icons/icon_twitter.png" alt="Twitter" /></a></li>
-					<li><a href="http://www.behance.com" title=""><img src="images/icons/icon_behance.png" alt="Behance" /></a></li>
-					<li><a href="http://www.linkedin.com" title=""><img src="images/icons/icon_linkedin.png" alt="Linkedin" /></a></li>
-					<li><a href="http://www.dribbble.com" title=""><img src="images/icons/icon_dribbble.png" alt="Dribbble" /></a></li>
+					<li><a href="http://www.twitter.com/aasananes" title=""><img src="images/icons/icon_twitter.png" alt="Twitter" /></a></li>
+					<!-- <li><a href="http://www.behance.com/sananes" title=""><img src="images/icons/icon_behance.png" alt="Behance" /></a></li> -->
+					<li><a href="http://www.linkedin.com/pub/aaron-sananes/3b/251/265" title=""><img src="images/icons/icon_linkedin.png" alt="Linkedin" /></a></li>
+					<li><a href="http://www.dribbble.com/sananes" title=""><img src="images/icons/icon_dribbble.png" alt="Dribbble" /></a></li>
 				</ul><!-- // ul#social -->
 			</div><!-- // .ten -->
 
