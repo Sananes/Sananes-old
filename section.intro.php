@@ -31,7 +31,7 @@
 
 				<div class="four columns">
 					<a href="#" class="link-print">Print Resume</a>
-					<a href="downloads/resume_pdf_turquoise.pdf" title="Download PDF Resume" class="link-pdf">Download PDF</a>
+					<a href="downloads/sananes_resume.pdf" title="Download Aaron Sananes Resume" class="link-pdf">Download PDF</a>
 				</div><!-- // .four -->
 
 				<div class="clear"></div>
